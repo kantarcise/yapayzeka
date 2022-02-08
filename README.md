@@ -10,7 +10,7 @@ Bu repository (depo) yapay zeka hakkında yapmak isteyebileceğin araştırmalar
 
 Yapay Zeka teknolojisi hakkında heyecan verici olan şey, **şu anda** hayatımızın içinde, neredeyse her alanda var olması.
 
-Buna Dota 2 gibi E-spor oyunlarında [profesyonellere karşı galip gelmiş modeller](https://openai.com/five/), müzikleri ünlü virtüözlerin tarzında [yeniden oluşturan yapılar](https://openai.com/blog/musenet/) ve seni mobil uygulamarında daha uzun süre tutmak için yarış halinde olan [öneri algoritmaları](https://www.amazon.science/the-history-of-amazons-recommendation-algorithm) dahil.
+Buna, Dota 2 gibi E-spor oyunlarında [profesyonellere karşı galip gelmiş modeller](https://openai.com/five/), müzikleri ünlü virtüözlerin tarzında [yeniden oluşturan yapılar](https://openai.com/blog/musenet/) ve seni mobil uygulamarında daha uzun süre tutmak için yarış halinde olan platformların [öneri algoritmaları](https://www.amazon.science/the-history-of-amazons-recommendation-algorithm) dahil.
 
 En çok kullanılan sosyal medya platformlarını ele alalım.
 
@@ -28,22 +28,23 @@ Yapay Zeka hakkında bilgiye erişmek, internet üzerinde yapılabilecek en kola
 
 2012'de, Konvolüsyonel Sinir Ağları ([Stanford'dan Ücretsiz Bir Kaynak](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)) nesne tespiti konusunda performanslarını kanıtlandığı andan itibaren [Alexnet](https://towardsdatascience.com/alexnet-the-architecture-that-challenged-cnns-e406d5297951), [YOLOv3](papers/yolov3.pdf), [Inception-v4](papers/Inception-v4.pdf) bilgisayarlı görü alanında devrim niteliğinde makaleler oldu.
 
-Bu alandaki en eğlenceli bilim insanlarından birisi, [Joseph Redmon](https://pjreddie.com/)'un  YOLOv3'ün kabiliyetlerini gösterdiği video şöyle. ✨
-
-[![](https://yt-embed.herokuapp.com/embed?v=MPU2HistivI)](http://www.youtube.com/watch?v=MPU2HistivI "Video Title")
-
 <p align="center">
   <img src="docs/images/cnn.png">
 </p>
 
 
-Bu makaleleri ilk seferde açtığında, içerikleri sana biraz ağır gelebilir. 
+Bu makaleleri ilk sefer açtığında, içerikleri sana biraz ağır gelebilir. 
 
-mAP, Feature Map, Logistic Regression, ResNet-152.. 
+*mAP, Feature Map, Logistic Regression, ResNet-152 ..*
 
 Fakat güzel haberlerim var. 😉
 
-Yukarıda saydığım her bir modelin temelinde, bazı matematiksel işlemler yapmaya yarayan temel katmanlar var.
+Bu alandaki en eğlenceli bilim insanlarından birisi, [Joseph Redmon](https://pjreddie.com/)'un  YOLOv3'ün kabiliyetlerini gösterdiği video şöyle. ✨
+
+[![](https://yt-embed.herokuapp.com/embed?v=MPU2HistivI)](http://www.youtube.com/watch?v=MPU2HistivI "Video Title")
+
+
+YOLOv3 ve ismi geçen her bir modelin yapısında, bazı matematiksel işlemler yapmaya yarayan temel katmanlar var.
 
 Tıpkı legolar gibi.
 
@@ -75,7 +76,7 @@ Bu konuda, bugüne kadar izlediğim en eğlenceli video 😅:
 
 ## Teknolojinin Liderleri Kimler ?
 
-Yapay Zeka kullanılarak geliştirilmiş en büyük projelerin oluşturucuları & nabız yoklayanları:
+Yapay Zeka kullanılarak geliştirilmiş en büyük projelerin ekipleri aşağıdaki gibi:
 
 <p float="left">
   <a href="https://www.csail.mit.edu/">
@@ -94,5 +95,8 @@ Yapay Zeka kullanılarak geliştirilmiş en büyük projelerin oluşturucuları 
   <img src="/docs/images/thesequence.jpg" width="175" />
   </a>
 </p>
+
+Bu dünyayı araştırmak, keşfetmek, çok keyifli. Aklına takılan herhangi bir şeyi [sormaktan çekinme](mailto:sezaiburakkantarci@gmail.com) 🌟
+
 
 [Boğaziçi Savunma Sanayi Zirvesi'nde paylaşılan içerik hakkında ayrıntılı bilgiler &amp; kaynaklar içerir.]: # (This is a comment)
