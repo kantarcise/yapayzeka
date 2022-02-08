@@ -91,8 +91,8 @@ Yapay Zeka kullanılarak geliştirilmiş en büyük projelerin ekipleri aşağı
   <a href="https://ai.stanford.edu/">
   <img src="/docs/images/stanfordai.jpg" width="175" />
   </a>
-  <a href="https://twitter.com/thesequenceai">
-  <img src="/docs/images/thesequence.jpg" width="175" />
+  <a href="https://www.nvidia.com/en-us/ai-data-science/">
+  <img src="/docs/images/nvidia.jpeg" width="175" />
   </a>
 </p>
 
