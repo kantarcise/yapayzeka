@@ -2,7 +2,7 @@
 
 ## Merhaba 👋
 
-Yapay Zeka üzerine çalışmak adına, aradığın tüm içerik ve fazlası, burada tek bir çatı altında. 😊
+Yapay Zeka üzerine çalışmak istiyorsan, aradığın tüm içerik ve fazlası, burada tek bir çatı altında. 😊
 
 İki farklı yol haritasından bahsetmiştik (Büyük Veri Analizi ve Bilgisayarlı Görü). 
 
@@ -43,25 +43,21 @@ Gönder gelsin 😍
 
 ### Data Structures and Algorithms in Python 🌟
 
-Veri Yapıları ve Algoritmalar, aslında dillerin üzerinde bir konu.
+Veri Yapıları ve Algoritmalar, aslında dillerin üzerinde seviyede (veya temel gibi düşünürsek, altında) bir konu.
 
 Bu konuda, benim tavsiye ettiğim kitap [şurada.](https://www.amazon.com.tr/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275).
 
-Bu kitap 723 sayfa. 
+Bu kitap 723 sayfa. Bu korkutucu gelebilir, fakat söz veriyorum, kitabın tamamını okumaya değiyor. 💮
 
-Bu korkutucu gelebilir, fakat söz veriyorum, kitabın tamamını okumaya değiyor.
+Çünkü kitap, [üst seviye](https://www.tutorialspoint.com/difference-between-high-level-language-and-low-level-language) bir dil olan Python ile, bir bilgisayarın çalışma prensibi arasındaki ilişkiyi; tüm veri yapılarının nasıl icat edildiklerini ve nerelerde kullanıldıklarını anlatıyor.
 
-Çünkü kitap, üst seviye bir dil olan Python ile, bir bilgisayarın çalışma prensibi arasındaki ilişkiyi; tüm veri yapılarının nasıl icat edildiklerini ve nerelerde kullanıldıklarını anlatıyor.
-
-Ayrıca, buradaki bilgeliğin, mülakatlarında da sana çok yardımcı olacak.
-
-Paha biçilemez bir beceri.
+Ayrıca, buradaki bilgeliğin, mülakatlarında da sana çok yardımcı olacak. Paha biçilemez bir beceri.
 
 ### Python Testing with pytest 🐪
 
 Python ile geliştirme yapacağını düşünürsek, katıldığın kaliteli geliştiricilerden oluşan ekipte, unittest yazmak klasik bir beklenti olacak.
 
-Bu alışkanlığı edinmek için, olabilecek en basit test kütüphanelerinden birisi olan Pytest ile başlamak, yerinde bir tercih.
+Bu alışkanlığı edinmek için, olabilecek en basit test kütüphanelerinden birisi olan pytest ile başlamak, yerinde bir tercih.
 
 Keşfe çıkmak için, kitap linki [şöyle.](https://www.amazon.com/dp/1680508601/ref=emc_bcc_2_i)
 
@@ -115,7 +111,7 @@ Harika bir Apache Spark eğitimleri mevcut ve bu eğitim ücretsiz. Sonrasında 
 
 ### Apache Spark ✏️
 
-Spark bir veri mühendisinin tek bir araç kullanarak birden fazla iş yapabilmesi için, birleşik bir veri işleme motoru.
+Spark bir veri mühendisinin tek bir araç kullanarak birden fazla iş yapabilmesi için oluşturulmuş, birleşik bir veri işleme motoru.
 
 Endüstride sıklıkla karşına çıkacak, çünkü açık kaynaklı ve büyük bir topluluğa sahip.
 
@@ -125,11 +121,11 @@ Spark'ı oluşturan insandan bir kitap: [Spark: The Definitive Guide: Big data p
 
 ### Kaggle 🎢
 
-Büyük Veri Analizi yapmak için, veriye ihtiyacın olacak.
+Büyük Veri Analizi yapabilmek için, veriye ihtiyacın olacak.
 
-Gerçek dünyada veri hiçbir hazır verisetine benzemese bile, verisetleri üzerinde temel modellerin geliştirilmesini öğrenmek için Kaggle harika bir site.
+Gerçek dünyada veri, hiçbir hazır veri setine benzemese bile, veri setleri üzerinde temel modellerin geliştirilmesini öğrenmek için Kaggle harika bir site.
 
-Ayrıca, öznitelik mühendisliği becerinizi geliştirmeniz (Feature Engineering) elde ettiğiniz sonuçlarda metrik başarınızı belirleyen temel
+Ayrıca, öznitelik mühendisliği becerini geliştirmen (Feature Engineering) elde ettiğin sonuçlarda metrik başarını belirleyen temel yetkinliklerden birisi olacak.
 
 ### Fundamentals of Data Engineering  📕
 
@@ -137,13 +133,13 @@ Bu kitap, veri mühendisliğinin ana çerçevesi ile yeni kavramlar arasında iy
 
 Kitap linki [şurada.](https://www.amazon.com/Fundamentals-Data-Engineering-Robust-Systems/dp/1098108302)
 
-### Apache Flink
+### Apache Flink 🍊
 
-Apache Flink, canlı veri akışları üzerinde durum bilgisi olan hesaplamalar için oluşturulmuş, dağıtık bir işleme motorudur.
+Apache Flink, canlı veri akışları üzerinde durum bilgisi olan hesaplamalar için oluşturulmuş, dağıtık bir işleme motoru.
 
 Yine endüstride sıklıkla karşına çıkacak. Kullanım senaryoları için [şurayı](https://flink.apache.org/what-is-flink/use-cases/) inceleyebilirsin.
 
-### Apache Kafka
+### Apache Kafka 🍎
 
 Verinin servisler, prosesler ve konteynırlar arasında taşınmasını sağlayan, muhtemel olarak sıklıkla kullanacağın bir araç.
 
@@ -156,29 +152,33 @@ Verinin servisler, prosesler ve konteynırlar arasında taşınmasını sağlaya
 ![Computer Vision](img/2_bilgisayarli_görü_yol_haritasi.png)
 
 
-### CS 131 Computer Vision: Foundations and Applications
+### CS 131 Computer Vision: Foundations and Applications 🏯
 
 Modern yapay zeka uygulamalarının kalbinde, karmaşık dünyayı algılayabilen, anlayabilen ve yeniden yapılandırabilen bilgisayarlı görme teknolojileri yatıyor.
 
-CS131 ile, en baştan itibaren temel olarak öğrenmeniz gereken neredeyse her şey ile karşılaşmış olacaksın.
+CS131 ile, en baştan itibaren, temel olarak öğrenmeniz gereken neredeyse her şey ile karşılaşmış olacaksın.
 
 Lisans bitirme tezimde, [dersin notları](https://github.com/StanfordVL/CS131_notes) bana çok yardımcı olmuştu. 😌
 
+Ben [2019](http://vision.stanford.edu/teaching/cs131_fall1920/) yılını seviyorum. Eğer istersen [diğer yıllara](http://vision.stanford.edu/teaching/cs131_fall2021/) da bakabilirsin.
+
+2019 için, ders sunuları [şurada.](http://vision.stanford.edu/teaching/cs131_fall1920/syllabus.html)
+
 ### Computer Vision: A Modern Approach 📙
 
-Bir başucu kitabı. Takıldığınız bir yerde başvurmalık, eğer tavşan deliğine dalmak isterseniz de enfes bir kaynak.
+Bir başucu kitabı. Takıldığın bir yerde başvurmalık, eğer tavşan deliğine dalmak istersen de enfes bir kaynak.
 
 Kitap linki [şöyle.](https://www.pearson.com/en-us/subject-catalog/p/computer-vision-a-modern-approach/P200000003374/9780133001921)
 
-### CS231n: Deep Learning for Computer Vision
+### CS231n: Deep Learning for Computer Vision 🌠
 
-Bu ders, dünya üzerinde CV çalışmak isteyen herkesin alması gereken bir ders.
+Bu, dünya üzerinde CV çalışmak isteyen herkesin alması gereken bir ders.
 
-Dersi Stanford'ta açan ilk insan, Andrej Karpathy. Kendisi Tesla'da Yapay Zeka direktörüydü. Enfes bir YouTube hesabı var. Gerçek bir eğitmen.
+Dersi Stanford'ta açan ilk insan, [Andrej Karpathy](https://karpathy.ai/). Kendisi Tesla'da Yapay Zeka direktörüydü. Enfes bir YouTube hesabı var. Gerçek bir eğitmen.
 
-Dersin [içeriği şuradan](http://cs231n.stanford.edu/) incelenebilir. Eğer Karpathy'den dersi dinlemek istersen, çalma listesinin [ilk videosu](https://www.youtube.com/watch?v=NfnWJUyUJYU) şöyle.
+Dersin [içeriğini şuradan](http://cs231n.stanford.edu/) inceleyebilirsin. Eğer Karpathy'den dersi dinlemek istersen, çalma listesinin [ilk videosu](https://www.youtube.com/watch?v=NfnWJUyUJYU) şöyle.
 
-### PyTorch
+### PyTorch 🍓
 
 PyTorch, GPU'ları ve CPU'ları kullanarak derin öğrenme için optimize edilmiş bir tensör kütüphanesi.
 
@@ -186,21 +186,24 @@ Endüstri standardı, bazılarının deyişi ile defacto.
 
 Kendilerinin oluşturduğu enfes bir başlangıç kiti [şöyle](https://pytorch.org/tutorials/beginner/basics/intro.html). 
 
-### Tensorflow
+### Tensorflow 🍍
 
+TensorFlow, makine öğrenimi için ücretsiz ve açık kaynaklı bir yazılım kütüphanesi. Google mühendisleri ve araştırmacıları tarafından geliştirildi.
 
+Endüstride yine sıklıkla kullanıldığını göreceksin. Eğer öğrenmek istersen, özenle oluşturulmuş [bir içerik](https://www.tensorflow.org/learn) seni bekliyor.
 
 ---
 
 Bu repo, geliştirilmeye devam edecek. 
 
-Eğer siz de farklı kaynaklar eklemek isterseniz, PR oluşturabilirsin.  😊
+Eğer sen de farklı kaynaklar eklemek istersen, PR oluşturabilirsin.  😊
 
 ---
 
-## Hatırlatma
+## Hatırlatma 🎉
 
-Öğrenmek sonsuz bir merdivene tırmanmak gibi. Yükseldikçe, henüz göremediğin şeyleri göreceksin.
+Öğrenmek [sonsuz bir merdivene tırmanmak](https://visualizevalue.com/blogs/visuals/learning) gibi. Yükseldikçe, henüz göremediğin şeyleri göreceksin.
 
-Yaşasın aktif öğrenme.
+Yaşasın aktif öğrenme. 
 
+![Learning](img/learning.png)
