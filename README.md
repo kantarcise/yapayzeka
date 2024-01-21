@@ -85,6 +85,14 @@ Yapay Zekanın, ne olup, ne olmadığını anlatan, rengarenk, eğlenceli bir i�
 
 Bu içerikle, zihninde, bilmediğini bile bilmediğin sorular cevaplanmış olacak.
 
+### [Introduction to Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/)
+
+Chip Huyen, sektörde en çok referans gösterilen [Designing Machine Learning Systems](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969) kitabının yazarı.
+
+Google, Nvidia, Netflix, Snapchat ve Snorkel.ai gibi şirketlerden teklif almasının yanında, Nvidia ve Snorkel.ai'da mülakat hazırlayan bir insan.
+
+Bu kitabın içeriğini günde 30 dakika okumak, gelecekte yapacağınız bir başvuruda, en güçlü kozlarınızdan birisi olabilir. 😍
+
 ---
 
 ## 1 - Büyük Veri İşleme Yol Haritası 🎪 <a name="big_data"></a>
