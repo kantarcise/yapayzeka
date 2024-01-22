@@ -85,6 +85,14 @@ Yapay Zekanın, ne olup, ne olmadığını anlatan, rengarenk, eğlenceli bir i�
 
 Bu içerikle, zihninde, bilmediğini bile bilmediğin sorular cevaplanmış olacak.
 
+### The Hundred-Page Machine Learning Book [Amazon](https://www.amazon.com.tr/Hundred-Page-Machine-Learning-Book/dp/199957950X) - [Github](https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI/blob/master/General-Machine-Learning/The%20Hundred-Page%20Machine%20Learning%20Book%20by%20Andriy%20Burkov/Links%20to%20read%20the%20chapters%20online.md) - [pdf](http://ema.cri-info.cm/wp-content/uploads/2019/07/2019BurkovTheHundred-pageMachineLearning.pdf)
+
+141 sayfada, en çok kullanılan kısımları ile, Machine Learning'i anlayabilmek adına mükemmel bir kaynak.
+
+Kitap önce oku sonra satın al düşüncesi ile, herkese açık erişimde. 
+
+PDF'ten okumaya başladığınızda, bir an önce satın almak isteyeceksiniz. 😊
+
 ### [Introduction to Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/)
 
 Chip Huyen, sektörde en çok referans gösterilen [Designing Machine Learning Systems](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969) kitabının yazarı.
