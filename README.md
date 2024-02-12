@@ -188,7 +188,9 @@ Kitap linki [şöyle.](https://www.pearson.com/en-us/subject-catalog/p/computer-
 
 ### CS231n: Deep Learning for Computer Vision 🌠
 
-Bu, dünya üzerinde CV çalışmak isteyen herkesin alması gereken bir ders.
+Bu, dünya üzerinde CV çalışmak isteyen herkesin alması gereken bir ders. 
+
+2016 Kış döneminde açılış dersini [Fei Fei Li](https://profiles.stanford.edu/fei-fei-li) veriyor. CV tarihini öğrenmek ve bu bilinçle gelişmek harika bir fırsat.
 
 Dersi Stanford'ta açan ilk insan, [Andrej Karpathy](https://karpathy.ai/). Kendisi Tesla'da Yapay Zeka direktörüydü. Enfes bir YouTube hesabı var. Gerçek bir eğitmen.
 
