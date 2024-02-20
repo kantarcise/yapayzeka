@@ -14,10 +14,10 @@ Tüm içeriği, aşağıda açıklamaları ile bulabilirsin.
 
 ## İçindekiler
 
-1. [Yapay Zeka Yol Haritası](#yz)
-2. [Büyük Veri İşleme Yol Haritası](#big_data)
-3. [Bilgisayarlı Görü Yol Haritası](#cv)
-
+0. [Yapay Zeka Yol Haritası](#yz)
+1. [Büyük Veri İşleme Yol Haritası](#big_data)
+2. [Bilgisayarlı Görü Yol Haritası](#cv)
+3. [Sinyal/Gürültü Oranı En Yüksek Konuşmalar](#talks)
 ---
 
 ## 0 - Yapay Zeka Yol Haritası 🔮 <a name="yz"></a>
@@ -215,6 +215,22 @@ Endüstride yine sıklıkla kullanıldığını göreceksin. Eğer öğrenmek is
 Bu repo, geliştirilmeye devam edecek. 
 
 Eğer sen de farklı kaynaklar eklemek istersen, PR oluşturabilirsin.  😊
+
+---
+
+## 3 - Sinyal/Gürültü Oranı En Yüksek Konuşmalar 🌳 <a name="talks"></a>
+
+### [Introduction to LLM's](https://www.youtube.com/watch?v=zjkBMFhNj_g)
+
+Andrej dil modelleri hakkında, kendi ifadesi ile “Meşgul insanlar Dil Modellerine Giriş“ üzerine enfes bir içerik oluşturmuş.
+
+### [Andrew Ng: Opportunities in AI - 2023](https://www.youtube.com/watch?v=5p248yoa3oE)
+
+Alanda en saygın insanlardan birisi, Andrew NG'den, özellikle Supervised Learning ile çözülebilecek daha birçok problem olduğunu keşfetmek ve derinleşmek adına. 
+
+### [Yann LeCun, Meta and NYU - "Objective-Driven AI: Towards Machines that can Learn, Reason, and Plan"](https://www.youtube.com/watch?v=d_bdU3LsLzE)
+
+Yann, Meta'da Chief AI Scientist. Dil Modelleri ve Üretken Yapay Zeka üzerinde bakış açısını paylaşıyor. Ona göre, AGI'a erişim adına, daha çok yolumuz var.
 
 ---
 
