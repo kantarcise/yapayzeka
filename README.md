@@ -1,8 +1,12 @@
-# ssz24
+# yapayzeka (yol haritası) 🌏
 
 ## Merhaba 👋
 
-Yapay Zeka üzerine çalışmak istiyorsan, aradığın tüm içerik ve fazlası, burada tek bir çatı altında. 😊
+Dünyayı değiştiren bu teknolojiyi kullanan, benzersiz problemler çözen insanlardan birisi olmak istiyorsan, doğru yerdesin. 
+
+Aradığın her şey ve fazlası, burada tek bir çatı altında. 😊
+
+---
 
 İki farklı yol haritasından bahsetmiştik (Büyük Veri Analizi ve Bilgisayarlı Görü). 
 
