@@ -236,6 +236,10 @@ Alanda en saygın insanlardan birisi, Andrew NG'den, özellikle Supervised Learn
 
 Yann, Meta'da Chief AI Scientist. Dil Modelleri ve Üretken Yapay Zeka üzerinde bakış açısını paylaşıyor. Ona göre, AGI'a erişim adına, daha çok yolumuz var.
 
+### [The Autopilot Stack at Tesla](https://youtu.be/FwT4TSRsiVw?t=90)
+
+Başlangıçtan bu yana, Tesla'nın otopilot geliştirme problemine yaklaşımının özeti, yine Andrej'den. İlham verici.
+
 ---
 
 ## Hatırlatma 🎉
