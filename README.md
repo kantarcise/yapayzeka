@@ -240,6 +240,10 @@ Yann, Meta'da Chief AI Scientist. Dil Modelleri ve Üretken Yapay Zeka üzerinde
 
 Başlangıçtan bu yana, Tesla'nın otopilot geliştirme problemine yaklaşımının özeti, yine Andrej'den. İlham verici.
 
+### [Geoffrey Hinton in conversation with Fei-Fei Li — Responsible AI development](https://www.youtube.com/watch?v=QWWgr2rN45o)
+
+Yapay zekanın gelişiminde kilit iki insanın hikayeleri ve alanın geçmişi. ImageNet, Büyük Dil Modellerinin yükselişi, ve Sorumlu AI geliştirme.
+
 ---
 
 ## Hatırlatma 🎉
