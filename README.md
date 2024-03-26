@@ -244,6 +244,10 @@ Başlangıçtan bu yana, Tesla'nın otopilot geliştirme problemine yaklaşımı
 
 Yapay zekanın gelişiminde kilit iki insanın hikayeleri ve alanın geçmişi. ImageNet, Büyük Dil Modellerinin yükselişi, ve Sorumlu AI geliştirme.
 
+### [Generative AI And Programming, Peter Norvig, Director of Research, Google](https://www.youtube.com/watch?v=wvvMmLzzhqg)
+
+Generative AI nasıl/neden popüler oldu? Peter, yazılım geliştirmenin tarihi ve güncel durumu 15 dakikaya sığdırmış.
+
 ---
 
 ## Hatırlatma 🎉
