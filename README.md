@@ -105,6 +105,14 @@ Google, Nvidia, Netflix, Snapchat ve Snorkel.ai gibi şirketlerden teklif almas�
 
 Bu kitabın içeriğini günde 30 dakika okumak, gelecekte yapacağınız bir başvuruda, en güçlü kozlarınızdan birisi olabilir. 😍
 
+### [Dive into Deep Learning](https://d2l.ai/) 🐤
+
+Kod ve Matematik birlikteliğinde oluşturulmuş, etkileşimli bir derin öğrenme kitabı. 
+
+PyTorch, NumPy/MXNet, JAX ve TensorFlow ile kitabı bir yandan okurken, kendini mutfakta hissetmen mümkün. 70 ülkeden 500 üniversitede farklı derslerde kullanılıyormuş.
+
+İndirmene veya satın almana bile gerek yok, hatta basılı kitap doğal olarak websitesindeki versiyonun gerisinde kalıyor. 🤭
+
 ---
 
 ## 1 - Büyük Veri İşleme Yol Haritası 🎪 <a name="big_data"></a>
