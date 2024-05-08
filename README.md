@@ -256,6 +256,12 @@ Yapay zekanın gelişiminde kilit iki insanın hikayeleri ve alanın geçmişi. 
 
 Generative AI nasıl/neden popüler oldu? Peter, yazılım geliştirmenin tarihi ve güncel durumu 15 dakikaya sığdırmış.
 
+### [Jim Keller (Full Interview)](https://youtu.be/rfFuTgnvwgs?t=3000)
+
+Efsanevi mikroişlemci mühendisi Jim Keller, Apple, AMD, Tesla ve Intel'de çalıştıktan sonra 2020 yılında yapay zeka çipi girişimi Tenstorrent'e katıldı ve 2023 yılında CEO oldu.
+
+Yapay zekanın hem yazılım hem donanım açısından gelecekte nasıl görüneceğini düşündüğünü bizimle paylaşmış. 
+
 ---
 
 ## Hatırlatma 🎉
