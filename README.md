@@ -21,7 +21,8 @@ Tüm içeriği, aşağıda açıklamaları ile bulabilirsin.
 0. [Yapay Zeka Yol Haritası](#yz)
 1. [Büyük Veri İşleme Yol Haritası](#big_data)
 2. [Bilgisayarlı Görü Yol Haritası](#cv)
-3. [Sinyal/Gürültü Oranı En Yüksek Konuşmalar](#talks)
+3. [Üretken Yapay Zeka](#genai)
+4. [Sinyal/Gürültü Oranı En Yüksek Konuşmalar](#talks)
 ---
 
 ## 0 - Yapay Zeka Yol Haritası 🔮 <a name="yz"></a>
@@ -230,7 +231,20 @@ Eğer sen de farklı kaynaklar eklemek istersen, PR oluşturabilirsin.  😊
 
 ---
 
-## 3 - Sinyal/Gürültü Oranı En Yüksek Konuşmalar 🌳 <a name="talks"></a>
+## 3 - Üretken Yapay Zeka 🌟 <a name="genai"></a>
+
+
+### [CS25: Transformers United V4](https://web.stanford.edu/class/cs25/)
+
+Dünyayı kasıp kavuran derin öğrenme modeli Transformers'la ilgileniyor musunuz? CS25 işin mutfağındaki (OpenAI, Google, Nvidia) insanları dinlemek için harika bir fırsat. 🌟
+
+### [CS236 - Deep Generative Models](https://deepgenerativemodels.github.io/)
+
+Variational auto-encoders, GANs, Auto Regressive Models, Normalizing Flow Models, Energy-Based Models gibi modeller hakkında keşfetmek için, olgunlaşmış bir ders. Tüm içerik YouTube'da !
+
+---
+
+## 4 - Sinyal/Gürültü Oranı En Yüksek Konuşmalar 🌳 <a name="talks"></a>
 
 ### [Introduction to LLM's](https://www.youtube.com/watch?v=zjkBMFhNj_g)
 
